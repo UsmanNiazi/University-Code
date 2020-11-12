@@ -1,3 +1,5 @@
+//Parent child inheritence
+
 public class perMem extends member
 {
     static int fee = 5000;
